@@ -1,2 +1,2 @@
-module ApplicationHelper1
+module ApplicationHelper
 end
